@@ -1,0 +1,2 @@
+suPHP_ConfigPath /home/template/public_html/admin
+#php_extension oauth.so

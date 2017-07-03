@@ -1,0 +1,13 @@
+[26-Apr-2017 07:44:54 GMT] PHP Warning:  basename() expects at most 2 parameters, 3 given in /home/template/public_html/client/actions/addbackground.php on line 6
+[01-Jun-2017 08:04:04 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/check_geo.php on line 8
+[13-Jun-2017 13:18:43 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/findgeofilter.php on line 8
+[13-Jun-2017 13:19:49 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/findgeofilter.php on line 8
+[13-Jun-2017 13:19:53 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/findgeofilter.php on line 8
+[13-Jun-2017 13:19:56 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/findgeofilter.php on line 8
+[13-Jun-2017 13:20:28 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/findgeofilter.php on line 8
+[13-Jun-2017 13:20:32 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/findgeofilter.php on line 8
+[13-Jun-2017 15:59:42 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/check_geo.php on line 8
+[13-Jun-2017 15:59:50 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/check_geo.php on line 8
+[13-Jun-2017 16:00:11 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/check_geo.php on line 8
+[14-Jun-2017 04:37:42 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/findgeofilter.php on line 5
+[14-Jun-2017 04:37:42 GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/template/public_html/client/actions/findgeofilter.php on line 8
